@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TekberUTS</string>
+    <string name="buku1">Politik Kelautan</string>
+    <string name="buku2">God, Do you speak english ?</string>
+    <string name="buku3">Milea, Suara dari Dilan</string>
+    <string name="buku4">Memahami Film</string>
+    <string name="buku5">Metode Penelitian Dan Teknik Penyusunan Skripsi</string>
+    <string name="buku6">Filosofi Kopi</string>
+    <string name="Profil">Muhammad Mulvi Viriansyah</string>
+    <string name="nim">H1101171052</string>
+    <string name="email">Mulviriansyah@gmail.com</string>
+    <string name="Penerbit">Penerbit : -</string>
+    <string name="kode">Kode : 32:26 Dam p</string>
+    <string name="resensi">Buku ini disusun berdasarkan hasil penelitian yang sudah diseminarkan dalam berbagai forum nasional, sejak penulis menjadi staf peneliti lembaga riset kebudayaan nasional (LRKN-LIPI), pada tahun 1978</string>
+    <string name="Penerbit2">Penerbit : Rene Book</string>
+    <string name="kode2">Kode : 5442 22</string>
+    <string name="resensi2">Buku ini mencerintakan mengenai para penulis yang mana mereka mengunjungi berbagai tempat- tempat menarik. Tiga penulis in merupakan anggota sukarelawan dari sebuah lembaga sukarelawan VSO atai Internasional Voluntary Service Organozation yang ada di Indonesia. Mereka ialah Nina silvia, Jeff kristanto dan juga Rini hanifa.</string>
+    <string name="Penerbit3">Penerbit : Pastel Books</string>
+    <string name="kode3">Kode : 7777 22</string>
+    <string name="resensi3">Novel ini merupakan seri ketiga dari novel Dilan, Dia Dilanku Tahun 1990, Dia Dilanku Tahun 1991. Apabila kamu tidak membaca dua novel sebelumnya, maka tentu kamu pun akan kebingungan untuk bisa menyimak novel Milea ini.</string>
+    <string name="Penerbit4">Penerbit : Homerian Pustaka</string>
+    <string name="kode4">Kode : 9988 33</string>
+    <string name="resensi4">Kebanyakan orang masing beranggapan untuk melihat film merupakan hal yang cukup mustahil untuk di lakukan. padahal film bisa di ciptakan oleh siapa saja. Meskipun terdapat seseorang dengan minat yang tinggi untuk membuat film, Namun kedalaman untuk dapat memaham dari seni film memang amat sangat terbatas.</string>
+    <string name="Penerbit5">Penerbit : PT. Rineka Cipta</string>
+    <string name="kode5">Kode : 0099 45</string>
+    <string name="resensi5">Buku ini merupakan buku yang mana di susun dengan berdasarkan pandangan serta pemikiran dari beberapa peneliti serta pakar dalam bidang ilmu metodologi penelitian. Tujuan pembuatan buku ini adalah agar membantu mereka yang ingin tahu bagaimana seluk beluk dari metodologi penelitian, prosedurnya dan juga mengenai desain penelitian secara umum bisa di pakai pada sebuah penelitian untuk ilmu sosial. Berbagai teknik yang di jelaskan pada buku tersebut bisa sangat membantu para mahasiswa untuk mudah dalam menyusun skirpsi.</string>
+    <string name="Penerbit6">Penerbit : Penerbit bentang, Truedee books dan Gagas media</string>
+    <string name="kode6">Kode : 9090 66</string>
+    <string name="resensi6">Buku menceritakan kisah mengenai Ben dan jug Jody, mereka adalah seorang barista yang handal dalam membuat racikan kopi. Jody dan Ben mendirikan sebuah kedai kopi yang memiliki filosofi kopi. Ben memberikan sebuah deskripsi yang singkat dengan sebuah katu kecil tentang filososi kopi dari setiap racikan ramuan yang memang di racik dan disajikan di kedai kopi tersebut.</string>
+</resources>
+
